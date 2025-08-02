@@ -4,7 +4,8 @@ A simple experiment tracking dashboard built with React and Vite. This project h
 
 ## Live Demo
 
-Check out the live application: https://mlops-tracker.vercel.app/
+Check out the live application: https://mlops-tracker.vercel.app/  
+🎥 Watch the video presentation: https://drive.google.com/file/d/1kRSjRFJOhIIghEZGmfXNtMTqK7OiUc3i/view?usp=sharing
 
 ## What it does
 
